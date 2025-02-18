@@ -1,4 +1,4 @@
-# Black Rock Take Home Exercises
+# Financial Processing Application
 
 # This project is a streamlit built web app containing the main exercises and extra credit excerises.
 
